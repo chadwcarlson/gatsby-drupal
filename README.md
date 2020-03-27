@@ -31,6 +31,8 @@ The following files and additions make the framework work.  If using this projec
 
 ## References
 
+- [Gatsby](https://www.gatsbyjs.org/)
+- [Drupal](https://www.drupal.org/)
 - [`gatsby-source-drupal`](https://www.gatsbyjs.org/packages/gatsby-source-drupal/)
 - [Using Gatsby with Drupal](https://www.gatsbyjs.com/guides/drupal/)
 - [Sourcing from Drupal](https://www.gatsbyjs.org/docs/sourcing-from-drupal/)
