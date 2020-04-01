@@ -24,8 +24,8 @@ info:
   name: Gatsby with Drupal
   # Human-readable descriptive text for the template. Supports limited HTML.
   description: |
-     <p>This template builds a multi-app project using Gatsby as its frontend and a Wordpress to store content.</p>
-     <p>Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps, and WordPress is a blogging and lightweight CMS written in PHP.</p>
+     <p>This template builds a multi-app project using Gatsby as its frontend and a Drupal backend to store content.</p>
+     <p>Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps, and Drupal is a flexible and extensible PHP-based CMS framework.</p>
   # A list of tags associated with the template.
   tags:
   - Node.js
