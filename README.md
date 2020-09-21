@@ -1,3 +1,7 @@
+> ## ARCHIVED:
+>
+> See [the Platform.sh template](https://github.com/platformsh-templates/gatsby-drupal) for current repository.
+
 # Gatsby Drupal multi-app for Platform.sh
 
 <p align="center">
